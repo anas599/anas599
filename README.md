@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anas Al-Sammarraie
 ==========================================================================================================================================
 
-Web developer and designer
+Software Engineer
 --------------------------
 
 I've been learning to code for the past year after switching from IT Support Engineer for a couple of years but I have really found my passion in coding and developing and started learning JavaScript, React, HTML/CSS , Python and Ruby
