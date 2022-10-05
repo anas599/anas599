@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 --------------------------
 
-I've been learning to code for the past year after switching from IT Support Engineer for a couple of years but I have really found my passion in coding and developing and started learning JavaScript, React, HTML/CSS , Python and Ruby
+I've been learning to code for the past few years after switching from IT Support Engineer for a couple of years but I have really found my passion in coding and developing and started learning JavaScript, React, HTML/CSS , Python and Ruby
 
 * 🌍  I'm based in Amman, Jordan
 * ✉️  You can contact me at [anas599@yahoo.com](mailto:anas599@yahoo.com)
-* 🧠  I'm learning JavaScript and HTML/CSS
+* 🧠  I have experience in JavaScript, HTML/CSS, Ruby and Python
 * 🤝  I'm open to collaborating on Any interested projects
 * ⚡  Also open for internship and job offers
 
