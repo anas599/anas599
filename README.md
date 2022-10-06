@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 --------------------------
 
-I've been learning to code for the past few years after switching from IT Support Engineer for a couple of years but I have really found my passion in coding and developing and started learning JavaScript, React, HTML/CSS , Python and Ruby
+I've been learning to code for the past few years after switching from IT Support Engineer for a couple of years but I have really found my passion in coding and developing and gained experience JavaScript, React, HTML/CSS , Python and Ruby
+I'm a certified AWS cloud practitioner with extensive knowledge in MySQL, Postgres SQL, and Dynamo DB. I can help you optimize your AWS environment for maximum performance and efficiency.
 
 * 🌍  I'm based in Amman, Jordan
 * ✉️  You can contact me at [anas599@yahoo.com](mailto:anas599@yahoo.com)
