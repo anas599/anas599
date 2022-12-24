@@ -38,4 +38,4 @@ I'm a certified AWS cloud practitioner with extensive knowledge in MySQL, Postgr
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/anas599"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p>Feel free to check one of my work using HTML/CSS and Javascript<a href="https://anas599.github.io/"></a></p>
