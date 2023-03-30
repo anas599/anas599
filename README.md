@@ -9,7 +9,7 @@ I'm a certified AWS cloud practitioner with extensive knowledge in MySQL, Postgr
 
 * 🌍  I'm based in Amman, Jordan
 * ✉️  You can contact me at [anas599@yahoo.com](mailto:anas599@yahoo.com)
-* 🧠  I have experience in JavaScript, HTML/CSS, Ruby and Python
+* 🧠  I have experience in React js, JavaScript, HTML/CSS, Ruby on rails and Python
 * 🤝  I'm open to collaborating on Any interested projects
 * ⚡  Also open for internship and job offers
 
