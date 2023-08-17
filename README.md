@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------------
 
-I've been learning to code for the past few years after switching from IT Support Engineer for a couple of years but I have really found my passion in coding and developing and gained experience JavaScript, React, HTML/CSS , Python and Ruby, 
+I've been learning to code for the past few years after switching from IT Support Engineer for a couple of years but I have really found my passion in coding and developing and gained experience in Nextjs, JavaScript, React, HTML/CSS, Python, and Ruby, 
 I'm a certified AWS cloud practitioner with extensive knowledge in MySQL, Postgres SQL, and Dynamo DB. I can help you optimize your AWS environment for maximum performance and efficiency.
 
 * 🌍  I'm based in Amman, Jordan
 * ✉️  You can contact me at [anas599@yahoo.com](mailto:anas599@yahoo.com)
-* 🧠  I have experience in React js, JavaScript, HTML/CSS, Ruby on rails and Python
+* 🧠  I have experience in Nextjs, React js, JavaScript, HTML/CSS, Ruby on Rails and Python
 * 🤝  I'm open to collaborating on Any interested projects
 * ⚡  Also open for internship and job offers
 
@@ -35,6 +35,6 @@ I'm a certified AWS cloud practitioner with extensive knowledge in MySQL, Postgr
 
 <p align="left"> <a href="https://www.dev.to/anas599" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/anas599" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/anas599" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/anas.sufyan93/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anas1993" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16832224/anas-al-sammarraie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/anas599" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Support Me
+
 
 <p>Feel free to check my <a href="https://anasdev.com/">Portfolio</a></p>
