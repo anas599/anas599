@@ -7,7 +7,7 @@ Full-Stack Developer
 I've been learning to code for the past few years after switching from IT Support Engineer for a couple of years but I have really found my passion in coding and developing and gained experience in Nextjs, JavaScript, React, HTML/CSS, Python, and Ruby, 
 I'm a certified AWS cloud practitioner with extensive knowledge in MySQL, Postgres SQL, and Dynamo DB. I can help you optimize your AWS environment for maximum performance and efficiency.
 
-* 🌍  I'm based in Amman, Jordan
+* 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [anas599@yahoo.com](mailto:anas599@yahoo.com)
 * 🧠  I have experience in Nextjs, React js, JavaScript, HTML/CSS, Ruby on Rails and Python
 * 🤝  I'm open to collaborating on Any interested projects
